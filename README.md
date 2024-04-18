@@ -1,0 +1,2 @@
+# SnykTest
+Connection to Snyk
